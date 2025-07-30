@@ -157,7 +157,8 @@ h2 code {
     font-family: 'Ubuntu Mono', serif;
     margin-top: .2%;
     margin-bottom: .5%;
-    font-weight: 600;
+    font-weight: 500;
+    color: #000000 !important;
 }
 
 
